@@ -1,23 +1,8 @@
 #include <stdio.h>
 int main () 
 {
-    int numero = 7;
- 
+    char numero = 89;
     printf("numero: %d ", numero); 
 
 return (0);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
